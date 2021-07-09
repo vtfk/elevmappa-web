@@ -30,7 +30,7 @@
     "refresh": "rm -rf node_modules && rm package-lock.json && npm i"
   },
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "babel-polyfill": "6.26.0",
     "core-js": "3.6.5",
     "oidc-client": "1.9.1",
